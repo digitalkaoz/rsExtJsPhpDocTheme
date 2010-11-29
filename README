@@ -1,8 +1,0 @@
-INSTALL
------------------
-Copy Extjs folder to the phpDocumentor's "Converters/HTML/frames/"
-directory.
-
-USAGE
------------------
-Simple use "HTML:frames/Extjs:default" as your output format
