@@ -33,7 +33,7 @@ Use it as follows:
 
 Watch your generated phpdoc api:
 
-    localhost:///path/to/doc/phpdoc/index.html
+    http://path/to/doc/phpdoc/index.html
 
 
   [1]: http://dev.sencha.com/deploy/dev/docs/
