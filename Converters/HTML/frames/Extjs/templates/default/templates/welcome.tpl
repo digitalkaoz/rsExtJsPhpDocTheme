@@ -8,14 +8,6 @@
   <div class="res-block">
     <div class="res-block-inner">
       <h3>Additional Resources</h3>
-      <ul>
-        <li><a href="http://usedom.spot-media.net:8080" target="_blank">Hudson</a></li>
-        <li><a href="http://blog.usedom.spot-media.net" target="_blank">Blog</a></li>
-        <li><a href="http://live-tms.reisen.tchibo.easynet.de/wiki/index.php/Hauptseite" target="_blank">enduser Wiki</a></li>
-        <li><a href="http://bugtracking.tchibo.easynet.de" target="_blank">Bugtracker</a></li>
-        <li><a href="http://usedom.spot-media.net/phpmyadmin/" target="_blank">PhpMyadmin</a></li>
-        <li><a href="https://wiki.spot-media.net/index.php/Kategorie:Reiseplattform_2010_%28Tchibo%29" target="_blank">smag Wiki</a></li>
-      </ul>
     </div>
   </div>
   
@@ -31,7 +23,7 @@
         <li><img src="http://dev.sencha.com/deploy/dev/docs/resources/s.gif" class="item-icon icon-prop"/>Abstract Class</li>
         <li><img src="http://dev.sencha.com/deploy/dev/docs/resources/s.gif" class="item-icon icon-config"/>Config Option</li>
         <li><img src="http://dev.sencha.com/deploy/dev/docs/resources/s.gif" class="item-icon icon-event"/>Event</li>
-
+<!-- old ones -->
         <li><img src="{$subdir}images/Method.png" alt="Method" title="Method" class="item-icon"  />Method</li>
         <li><img src="{$subdir}images/Variable.png" alt="Variable" title="Variable" class="item-icon"  />Variable</li>
         <li><img src="{$subdir}images/PrivateClass.png" alt="Private class" title="Private class" class="item-icon"  />Private class</li>

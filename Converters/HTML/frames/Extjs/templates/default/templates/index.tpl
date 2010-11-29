@@ -8,10 +8,6 @@
 
   <div id="header">
     <div style="float:right; margin-top: 15px;margin-right: 10px;color: #CCC">
-        <a href="http://staging.usedom.spot-media.net/" target="_blank" style="padding:5px">staging.intern</a> | 
-        <a href="http://live.usedom.spot-media.net/" target="_blank" style="padding:5px">live.intern</a> | 
-        <a href="http://staging-tms.reisen.tchibo.easynet.de" target="_blank" style="padding:5px">staging.extern</a> | 
-        <a href="http://live-tms.reisen.tchibo.easynet.de" target="_blank" style="padding:5px">live.extern</a>
     </div>
  	<div class="api-title">API | {$title}</div>
   </div>
