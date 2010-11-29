@@ -35,6 +35,13 @@ Watch your generated phpdoc api:
 
     http://path/to/doc/phpdoc/index.html
 
+TODO
+----
+
+* link classes correctly
+* remove dedicated code/files
+* cleanup converter
+
 
   [1]: http://dev.sencha.com/deploy/dev/docs/
   [2]: http://phpdoc.org/
