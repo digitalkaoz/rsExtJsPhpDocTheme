@@ -3,7 +3,7 @@
 <body scroll="no" id="docs">
   <div id="loading-mask" style=""></div>
   <div id="loading">
-    <div class="loading-indicator"><img src="http://dev.sencha.com/deploy/dev/docs/resources/extanim32.gif" width="32" height="32" style="margin-right:8px;" align="absmiddle"/>Loading...</div>
+    <div class="loading-indicator"><img src="http://dev.sencha.com/deploy/ext-3.3.1/docs/resources/extanim32.gif" width="32" height="32" style="margin-right:8px;" align="absmiddle"/>Loading...</div>
   </div>
 
   <div id="header">
